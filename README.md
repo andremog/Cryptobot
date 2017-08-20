@@ -16,6 +16,7 @@ Future features:
 - Automate external balance import from other exchanges/[Coinigy](https://www.coinigy.com "Coinigy")
 
 Installation steps:
+
 0. Open Terminal
 1. Type ```sudo apt install python3-pip```
 2. Type ```sudo pip3 install coinbase```

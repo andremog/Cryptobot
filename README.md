@@ -5,17 +5,17 @@ This is an on-going project to create a useful bot for tracking your cryptocurre
 
 <b>Info needed:</b> API key 
 
-Current features:
+# Current features:
 - List all transactions by coin
 - Calculate profit/loss for each coin (value in USD, % change)
 - Calculate profit/loss for entire portfolio
 - Supports multiple accounts within Coinbase and allows manual input of external balances
 
-Future features:
+# Future features:
 - Support other exchanges ([Bittrex](https://www.bittrex.com "bittrex"), [Kraken Exchange](https://www.Kraken.com "Kraken Exchange"))
 - Automate external balance import from other exchanges/[Coinigy](https://www.coinigy.com "Coinigy")
 
-Installation steps:
+# Installation steps:
 
 0. Open Terminal
 1. Type ```sudo apt install python3-pip```

@@ -1,5 +1,5 @@
 {
-    "coinbase_api": {
+    "coinbase_api_yourname": {
         "key": "yourCoinbaseAPIKey",
         "secret": "yourCoinbaseAPISecret"
     }

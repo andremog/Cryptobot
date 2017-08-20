@@ -16,12 +16,12 @@ Future features:
 
 Installation steps:
 0. Open Terminal
-1. Type ```"sudo apt install python3-pip"```
-2. Type ```"sudo pip3 install coinbase"```
+1. Type ```sudo apt install python3-pip```
+2. Type ```sudo pip3 install coinbase```
 3. Log on CoinBase. Navigate to Settings --> API Access --> + New API Key
 4. Select the accounts you want to use the bot on and all permissions that end in ":read"
 ![(Picture)](https://raw.githubusercontent.com/kwkevinlin/Cryptobot/master/images/Screen%20Shot%202017-08-14%20at%207.10.24%20PM.jpg)
 5. Record your API public and secret key somewhere safe
 6. Enter your API keys into config.json
-7. Type ```"python3 main.py"``` in Terminal to run script
+7. Type ```python3 main.py``` in Terminal to run script
 
